@@ -64,5 +64,3 @@ spec:
                         backend:
                             serviceName: normal-example-microservice-service
                             servicePort: 30201
-
-
